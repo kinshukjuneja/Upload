@@ -1,0 +1,1821 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   contentScriptType="application/ecmascript"
+   contentStyleType="text/css"
+   height="1678px"
+   preserveAspectRatio="none"
+   style="width:640px;height:1678px;"
+   version="1.1"
+   viewBox="0 0 640 1678"
+   width="640px"
+   zoomAndPan="magnify"
+   id="svg882"
+   sodipodi:docname="687474703a2f2f706c616e74756d6c2e636f6d3a38302f706c616e74756d6c2f7376672f6c4c48444a6d386e344274744c71706d655753596f795535594337383348454363375a6e4b684f33457836715170697277672d746b71354f47306e5766425473766c4d7a555444.svg"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)">
+  <metadata
+     id="metadata886">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="986"
+     id="namedview884"
+     showgrid="false"
+     inkscape:zoom="1.2861084"
+     inkscape:cx="378.82464"
+     inkscape:cy="1299.492"
+     inkscape:window-x="-11"
+     inkscape:window-y="-11"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g880" />
+  <defs
+     id="defs458">
+    <filter
+       height="300%"
+       id="f1eqim7lobueg5"
+       width="300%"
+       x="-1"
+       y="-1">
+      <feGaussianBlur
+         result="blurOut"
+         stdDeviation="2.0"
+         id="feGaussianBlur449" />
+      <feColorMatrix
+         in="blurOut"
+         result="blurOut2"
+         type="matrix"
+         values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 .4 0"
+         id="feColorMatrix451" />
+      <feOffset
+         dx="4.0"
+         dy="4.0"
+         in="blurOut2"
+         result="blurOut3"
+         id="feOffset453" />
+      <feBlend
+         in="SourceGraphic"
+         in2="blurOut3"
+         mode="normal"
+         id="feBlend455" />
+    </filter>
+  </defs>
+  <g
+     id="g880">
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="14"
+       font-weight="bold"
+       lengthAdjust="spacingAndGlyphs"
+       textLength="251"
+       x="190.25"
+       y="22.9951"
+       id="text460">Liveness and Readiness probes</text>
+    <rect
+       fill="#FAEBD7"
+       height="1633.2344"
+       style="stroke: #A80036; stroke-width: 1.0;"
+       width="106"
+       x="521.5"
+       y="34.2969"
+       id="rect462" />
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="13"
+       font-weight="bold"
+       lengthAdjust="spacingAndGlyphs"
+       textLength="32"
+       x="558.5"
+       y="46.3638"
+       id="text464">POD</text>
+    <line
+       style="stroke: #A80036; stroke-width: 1.0; stroke-dasharray: 5.0,5.0;"
+       x1="118"
+       x2="118"
+       y1="88.7266"
+       y2="1629.2344"
+       id="line466" />
+    <line
+       style="stroke: #A80036; stroke-width: 1.0; stroke-dasharray: 5.0,5.0;"
+       x1="360.5"
+       x2="360.5"
+       y1="88.7266"
+       y2="1629.2344"
+       id="line468" />
+    <line
+       style="stroke: #A80036; stroke-width: 1.0; stroke-dasharray: 5.0,5.0;"
+       x1="574.5"
+       x2="574.5"
+       y1="88.7266"
+       y2="1629.2344"
+       id="line470" />
+    <rect
+       fill="#FEFECE"
+       filter="url(#f1eqim7lobueg5)"
+       height="30.2969"
+       style="stroke: #A80036; stroke-width: 1.5;"
+       width="217"
+       x="8"
+       y="53.4297"
+       id="rect472" />
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="14"
+       lengthAdjust="spacingAndGlyphs"
+       textLength="203"
+       x="15"
+       y="73.4248"
+       id="text474">Kubernetes Readiness probe</text>
+    <rect
+       fill="#FEFECE"
+       filter="url(#f1eqim7lobueg5)"
+       height="30.2969"
+       style="stroke: #A80036; stroke-width: 1.5;"
+       width="217"
+       x="8"
+       y="1628.2344"
+       id="rect476" />
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="14"
+       lengthAdjust="spacingAndGlyphs"
+       textLength="203"
+       x="15"
+       y="1648.2295"
+       id="text478">Kubernetes Readiness probe</text>
+    <rect
+       fill="#FEFECE"
+       filter="url(#f1eqim7lobueg5)"
+       height="30.2969"
+       style="stroke: #A80036; stroke-width: 1.5;"
+       width="204"
+       x="256.5"
+       y="53.4297"
+       id="rect480" />
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="14"
+       lengthAdjust="spacingAndGlyphs"
+       textLength="190"
+       x="263.5"
+       y="73.4248"
+       id="text482">Kubernetes Liveness probe</text>
+    <rect
+       fill="#FEFECE"
+       filter="url(#f1eqim7lobueg5)"
+       height="30.2969"
+       style="stroke: #A80036; stroke-width: 1.5;"
+       width="204"
+       x="256.5"
+       y="1628.2344"
+       id="rect484" />
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="14"
+       lengthAdjust="spacingAndGlyphs"
+       textLength="190"
+       x="263.5"
+       y="1648.2295"
+       id="text486">Kubernetes Liveness probe</text>
+    <rect
+       fill="#FEFECE"
+       filter="url(#f1eqim7lobueg5)"
+       height="30.2969"
+       style="stroke: #A80036; stroke-width: 1.5;"
+       width="94"
+       x="525.5"
+       y="53.4297"
+       id="rect488" />
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="14"
+       lengthAdjust="spacingAndGlyphs"
+       textLength="80"
+       x="532.5"
+       y="73.4248"
+       id="text490">Container 1</text>
+    <rect
+       fill="#FEFECE"
+       filter="url(#f1eqim7lobueg5)"
+       height="30.2969"
+       style="stroke: #A80036; stroke-width: 1.5;"
+       width="94"
+       x="525.5"
+       y="1628.2344"
+       id="rect492" />
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="14"
+       lengthAdjust="spacingAndGlyphs"
+       textLength="80"
+       x="532.5"
+       y="1648.2295"
+       id="text494">Container 1</text>
+    <rect
+       fill="#EEEEEE"
+       filter="url(#f1eqim7lobueg5)"
+       height="3"
+       style="stroke: #EEEEEE; stroke-width: 1.0;"
+       width="625.5"
+       x="3"
+       y="119.293"
+       id="rect496" />
+    <line
+       style="stroke: #000000; stroke-width: 1.0;"
+       x1="3"
+       x2="628.5"
+       y1="119.293"
+       y2="119.293"
+       id="line498" />
+    <line
+       style="stroke: #000000; stroke-width: 1.0;"
+       x1="3"
+       x2="628.5"
+       y1="122.293"
+       y2="122.293"
+       id="line500" />
+    <rect
+       fill="#EEEEEE"
+       filter="url(#f1eqim7lobueg5)"
+       height="23.1328"
+       style="stroke: #000000; stroke-width: 2.0;"
+       width="153"
+       x="239.25"
+       y="108.7266"
+       id="rect502" />
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="13"
+       font-weight="bold"
+       lengthAdjust="spacingAndGlyphs"
+       textLength="134"
+       x="245.25"
+       y="124.7935"
+       id="text504">Setting the timers</text>
+    <line
+       style="stroke: #A80036; stroke-width: 1.0;"
+       x1="118.5"
+       x2="160.5"
+       y1="223.5234"
+       y2="223.5234"
+       id="line506" />
+    <line
+       style="stroke: #A80036; stroke-width: 1.0;"
+       x1="160.5"
+       x2="160.5"
+       y1="223.5234"
+       y2="236.5234"
+       id="line508" />
+    <line
+       style="stroke: #A80036; stroke-width: 1.0;"
+       x1="119.5"
+       x2="160.5"
+       y1="236.5234"
+       y2="236.5234"
+       id="line510" />
+    <polygon
+       fill="#A80036"
+       points="129.5,232.5234,119.5,236.5234,129.5,240.5234,125.5,236.5234"
+       style="stroke: #A80036; stroke-width: 1.0;"
+       id="polygon512" />
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="13"
+       font-weight="bold"
+       lengthAdjust="spacingAndGlyphs"
+       textLength="9"
+       x="125.5"
+       y="188.1919"
+       id="text514">1</text>
+    <text
+       font-size="13"
+       lengthAdjust="spacingAndGlyphs"
+       textLength="140"
+       x="138.5"
+       y="157.9263"
+       id="text516"
+       style="font-size:13px;font-family:sans-serif;fill:#000000">initialDelaySeconds:60</text>
+    <text
+       font-size="13"
+       lengthAdjust="spacingAndGlyphs"
+       textLength="111"
+       x="138.5"
+       y="173.0591"
+       id="text518"
+       style="font-size:13px;font-family:sans-serif;fill:#000000">periodSeconds:15</text>
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="13"
+       lengthAdjust="spacingAndGlyphs"
+       textLength="179"
+       x="138.5"
+       y="188.1919"
+       id="text520">timeoutSeconds: 1 (default)</text>
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="13"
+       lengthAdjust="spacingAndGlyphs"
+       textLength="187"
+       x="138.5"
+       y="203.3247"
+       id="text522">successThreshold: 1 (default)</text>
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="13"
+       lengthAdjust="spacingAndGlyphs"
+       textLength="175"
+       x="138.5"
+       y="218.4575"
+       id="text524">failureThreshold: 3 (default)</text>
+    <line
+       style="stroke: #A80036; stroke-width: 1.0;"
+       x1="360.5"
+       x2="402.5"
+       y1="326.1875"
+       y2="326.1875"
+       id="line526" />
+    <line
+       style="stroke: #A80036; stroke-width: 1.0;"
+       x1="402.5"
+       x2="402.5"
+       y1="326.1875"
+       y2="339.1875"
+       id="line528" />
+    <line
+       style="stroke: #A80036; stroke-width: 1.0;"
+       x1="361.5"
+       x2="402.5"
+       y1="339.1875"
+       y2="339.1875"
+       id="line530" />
+    <polygon
+       fill="#A80036"
+       points="371.5,335.1875,361.5,339.1875,371.5,343.1875,367.5,339.1875"
+       style="stroke: #A80036; stroke-width: 1.0;"
+       id="polygon532" />
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="13"
+       font-weight="bold"
+       lengthAdjust="spacingAndGlyphs"
+       textLength="9"
+       x="367.5"
+       y="290.856"
+       id="text534">2</text>
+    <text
+       font-size="13"
+       lengthAdjust="spacingAndGlyphs"
+       textLength="148"
+       x="380.5"
+       y="260.5903"
+       id="text536"
+       style="font-size:13px;font-family:sans-serif;fill:#000000">initialDelaySeconds:90</text>
+    <text
+       font-size="13"
+       lengthAdjust="spacingAndGlyphs"
+       textLength="119"
+       x="380.5"
+       y="275.72311"
+       id="text538"
+       style="font-size:13px;font-family:sans-serif;fill:#000000">periodSeconds:30</text>
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="13"
+       lengthAdjust="spacingAndGlyphs"
+       textLength="179"
+       x="380.5"
+       y="290.856"
+       id="text540">timeoutSeconds: 1 (default)</text>
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="13"
+       lengthAdjust="spacingAndGlyphs"
+       textLength="187"
+       x="380.5"
+       y="305.9888"
+       id="text542">successThreshold: 1 (default)</text>
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="13"
+       lengthAdjust="spacingAndGlyphs"
+       textLength="175"
+       x="380.5"
+       y="321.1216"
+       id="text544">failureThreshold: 3 (default)</text>
+    <rect
+       fill="#EEEEEE"
+       filter="url(#f1eqim7lobueg5)"
+       height="3"
+       style="stroke: #EEEEEE; stroke-width: 1.0;"
+       width="625.5"
+       x="3"
+       y="367.7539"
+       id="rect546" />
+    <line
+       style="stroke: #000000; stroke-width: 1.0;"
+       x1="3"
+       x2="628.5"
+       y1="367.7539"
+       y2="367.7539"
+       id="line548" />
+    <line
+       style="stroke: #000000; stroke-width: 1.0;"
+       x1="3"
+       x2="628.5"
+       y1="370.7539"
+       y2="370.7539"
+       id="line550" />
+    <rect
+       fill="#EEEEEE"
+       filter="url(#f1eqim7lobueg5)"
+       height="23.1328"
+       style="stroke: #000000; stroke-width: 2.0;"
+       width="87"
+       x="272.25"
+       y="357.1875"
+       id="rect552" />
+    <text
+       font-size="13"
+       font-weight="bold"
+       lengthAdjust="spacingAndGlyphs"
+       textLength="68"
+       x="278.25"
+       y="373.25439"
+       id="text554"
+       style="font-weight:bold;font-size:13px;font-family:sans-serif;fill:#000000">Second 60</text>
+    <polygon
+       fill="#A80036"
+       points="562.5,407.4531,572.5,411.4531,562.5,415.4531,566.5,411.4531"
+       style="stroke: #A80036; stroke-width: 1.0;"
+       id="polygon556" />
+    <line
+       style="stroke: #A80036; stroke-width: 1.0;"
+       x1="118.5"
+       x2="568.5"
+       y1="411.4531"
+       y2="411.4531"
+       id="line558" />
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="13"
+       font-weight="bold"
+       lengthAdjust="spacingAndGlyphs"
+       textLength="9"
+       x="125.5"
+       y="406.3872"
+       id="text560">3</text>
+    <text
+       font-size="13"
+       lengthAdjust="spacingAndGlyphs"
+       textLength="98"
+       x="138.5"
+       y="406.38721"
+       id="text562"
+       style="font-size:13px;font-family:sans-serif;fill:#000000">http get /health</text>
+    <polygon
+       fill="#A80036"
+       points="129.5,436.5859,119.5,440.5859,129.5,444.5859,125.5,440.5859"
+       style="stroke: #A80036; stroke-width: 1.0;"
+       id="polygon564" />
+    <line
+       style="stroke: #A80036; stroke-width: 1.0;"
+       x1="123.5"
+       x2="573.5"
+       y1="440.5859"
+       y2="440.5859"
+       id="line566" />
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="13"
+       font-weight="bold"
+       lengthAdjust="spacingAndGlyphs"
+       textLength="9"
+       x="135.5"
+       y="435.52"
+       id="text568">4</text>
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="13"
+       lengthAdjust="spacingAndGlyphs"
+       textLength="50"
+       x="148.5"
+       y="435.52"
+       id="text570">timeout</text>
+    <rect
+       fill="#EEEEEE"
+       filter="url(#f1eqim7lobueg5)"
+       height="3"
+       style="stroke: #EEEEEE; stroke-width: 1.0;"
+       width="625.5"
+       x="3"
+       y="469.1523"
+       id="rect572" />
+    <line
+       style="stroke: #000000; stroke-width: 1.0;"
+       x1="3"
+       x2="628.5"
+       y1="469.1523"
+       y2="469.1523"
+       id="line574" />
+    <line
+       style="stroke: #000000; stroke-width: 1.0;"
+       x1="3"
+       x2="628.5"
+       y1="472.1523"
+       y2="472.1523"
+       id="line576" />
+    <rect
+       fill="#EEEEEE"
+       filter="url(#f1eqim7lobueg5)"
+       height="23.1328"
+       style="stroke: #000000; stroke-width: 2.0;"
+       width="96"
+       x="267.75"
+       y="458.5859"
+       id="rect578" />
+    <text
+       font-size="13"
+       font-weight="bold"
+       lengthAdjust="spacingAndGlyphs"
+       textLength="77"
+       x="273.75"
+       y="474.6528"
+       id="text580"
+       style="font-weight:bold;font-size:13px;font-family:sans-serif;fill:#000000">Second 75</text>
+    <polygon
+       fill="#A80036"
+       points="562.5,508.8516,572.5,512.8516,562.5,516.8516,566.5,512.8516"
+       style="stroke: #A80036; stroke-width: 1.0;"
+       id="polygon582" />
+    <line
+       style="stroke: #A80036; stroke-width: 1.0;"
+       x1="118.5"
+       x2="568.5"
+       y1="512.8516"
+       y2="512.8516"
+       id="line584" />
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="13"
+       font-weight="bold"
+       lengthAdjust="spacingAndGlyphs"
+       textLength="9"
+       x="125.5"
+       y="507.7856"
+       id="text586">5</text>
+    <text
+       font-size="13"
+       lengthAdjust="spacingAndGlyphs"
+       textLength="98"
+       x="138.5"
+       y="507.78561"
+       id="text588"
+       style="font-size:13px;font-family:sans-serif;fill:#000000">http get /health</text>
+    <polygon
+       fill="#A80036"
+       points="129.5,537.9844,119.5,541.9844,129.5,545.9844,125.5,541.9844"
+       style="stroke: #A80036; stroke-width: 1.0;"
+       id="polygon590" />
+    <line
+       style="stroke: #A80036; stroke-width: 1.0;"
+       x1="123.5"
+       x2="573.5"
+       y1="541.9844"
+       y2="541.9844"
+       id="line592" />
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="13"
+       font-weight="bold"
+       lengthAdjust="spacingAndGlyphs"
+       textLength="9"
+       x="135.5"
+       y="536.9185"
+       id="text594">6</text>
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="13"
+       lengthAdjust="spacingAndGlyphs"
+       textLength="46"
+       x="148.5"
+       y="536.9185"
+       id="text596">200 OK</text>
+    <line
+       style="stroke: #A80036; stroke-width: 1.0;"
+       x1="118.5"
+       x2="160.5"
+       y1="571.1172"
+       y2="571.1172"
+       id="line598" />
+    <line
+       style="stroke: #A80036; stroke-width: 1.0;"
+       x1="160.5"
+       x2="160.5"
+       y1="571.1172"
+       y2="584.1172"
+       id="line600" />
+    <line
+       style="stroke: #A80036; stroke-width: 1.0;"
+       x1="119.5"
+       x2="160.5"
+       y1="584.1172"
+       y2="584.1172"
+       id="line602" />
+    <polygon
+       fill="#A80036"
+       points="129.5,580.1172,119.5,584.1172,129.5,588.1172,125.5,584.1172"
+       style="stroke: #A80036; stroke-width: 1.0;"
+       id="polygon604" />
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="13"
+       font-weight="bold"
+       lengthAdjust="spacingAndGlyphs"
+       textLength="9"
+       x="125.5"
+       y="566.0513"
+       id="text606">7</text>
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="13"
+       lengthAdjust="spacingAndGlyphs"
+       textLength="204"
+       x="138.5"
+       y="566.0513"
+       id="text608">POD is enabled to receive traffic</text>
+    <rect
+       fill="#EEEEEE"
+       filter="url(#f1eqim7lobueg5)"
+       height="3"
+       style="stroke: #EEEEEE; stroke-width: 1.0;"
+       width="625.5"
+       x="3"
+       y="612.6836"
+       id="rect610" />
+    <line
+       style="stroke: #000000; stroke-width: 1.0;"
+       x1="3"
+       x2="628.5"
+       y1="612.6836"
+       y2="612.6836"
+       id="line612" />
+    <line
+       style="stroke: #000000; stroke-width: 1.0;"
+       x1="3"
+       x2="628.5"
+       y1="615.6836"
+       y2="615.6836"
+       id="line614" />
+    <rect
+       fill="#EEEEEE"
+       filter="url(#f1eqim7lobueg5)"
+       height="23.1328"
+       style="stroke: #000000; stroke-width: 2.0;"
+       width="96"
+       x="267.75"
+       y="602.1172"
+       id="rect616" />
+    <text
+       font-size="13"
+       font-weight="bold"
+       lengthAdjust="spacingAndGlyphs"
+       textLength="77"
+       x="273.75"
+       y="618.18408"
+       id="text618"
+       style="font-weight:bold;font-size:13px;font-family:sans-serif;fill:#000000">Second 90</text>
+    <polygon
+       fill="#A80036"
+       points="562.5,652.3828,572.5,656.3828,562.5,660.3828,566.5,656.3828"
+       style="stroke: #A80036; stroke-width: 1.0;"
+       id="polygon620" />
+    <line
+       style="stroke: #A80036; stroke-width: 1.0;"
+       x1="118.5"
+       x2="568.5"
+       y1="656.3828"
+       y2="656.3828"
+       id="line622" />
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="13"
+       font-weight="bold"
+       lengthAdjust="spacingAndGlyphs"
+       textLength="9"
+       x="125.5"
+       y="651.3169"
+       id="text624">8</text>
+    <text
+       font-size="13"
+       lengthAdjust="spacingAndGlyphs"
+       textLength="98"
+       x="138.5"
+       y="651.31689"
+       id="text626"
+       style="font-size:13px;font-family:sans-serif;fill:#000000">http get /health</text>
+    <polygon
+       fill="#A80036"
+       points="129.5,681.5156,119.5,685.5156,129.5,689.5156,125.5,685.5156"
+       style="stroke: #A80036; stroke-width: 1.0;"
+       id="polygon628" />
+    <line
+       style="stroke: #A80036; stroke-width: 1.0;"
+       x1="123.5"
+       x2="573.5"
+       y1="685.5156"
+       y2="685.5156"
+       id="line630" />
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="13"
+       font-weight="bold"
+       lengthAdjust="spacingAndGlyphs"
+       textLength="9"
+       x="135.5"
+       y="680.4497"
+       id="text632">9</text>
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="13"
+       lengthAdjust="spacingAndGlyphs"
+       textLength="46"
+       x="148.5"
+       y="680.4497"
+       id="text634">200 OK</text>
+    <polygon
+       fill="#A80036"
+       points="562.5,710.6484,572.5,714.6484,562.5,718.6484,566.5,714.6484"
+       style="stroke: #A80036; stroke-width: 1.0;"
+       id="polygon636" />
+    <line
+       style="stroke: #A80036; stroke-width: 1.0;"
+       x1="360.5"
+       x2="568.5"
+       y1="714.6484"
+       y2="714.6484"
+       id="line638" />
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="13"
+       font-weight="bold"
+       lengthAdjust="spacingAndGlyphs"
+       textLength="18"
+       x="367.5"
+       y="709.5825"
+       id="text640">10</text>
+    <text
+       font-size="13"
+       lengthAdjust="spacingAndGlyphs"
+       textLength="98"
+       x="389.5"
+       y="709.58252"
+       id="text642"
+       style="font-size:13px;font-family:sans-serif;fill:#000000">http get /health</text>
+    <polygon
+       fill="#A80036"
+       points="371.5,739.7813,361.5,743.7813,371.5,747.7813,367.5,743.7813"
+       style="stroke: #A80036; stroke-width: 1.0;"
+       id="polygon644" />
+    <line
+       style="stroke: #A80036; stroke-width: 1.0;"
+       x1="365.5"
+       x2="573.5"
+       y1="743.7813"
+       y2="743.7813"
+       id="line646" />
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="13"
+       font-weight="bold"
+       lengthAdjust="spacingAndGlyphs"
+       textLength="18"
+       x="377.5"
+       y="738.7153"
+       id="text648">11</text>
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="13"
+       lengthAdjust="spacingAndGlyphs"
+       textLength="46"
+       x="399.5"
+       y="738.7153"
+       id="text650">200 OK</text>
+    <rect
+       fill="#EEEEEE"
+       filter="url(#f1eqim7lobueg5)"
+       height="3"
+       style="stroke: #EEEEEE; stroke-width: 1.0;"
+       width="625.5"
+       x="3"
+       y="772.3477"
+       id="rect652" />
+    <line
+       style="stroke: #000000; stroke-width: 1.0;"
+       x1="3"
+       x2="628.5"
+       y1="772.3477"
+       y2="772.3477"
+       id="line654" />
+    <line
+       style="stroke: #000000; stroke-width: 1.0;"
+       x1="3"
+       x2="628.5"
+       y1="775.3477"
+       y2="775.3477"
+       id="line656" />
+    <rect
+       fill="#EEEEEE"
+       filter="url(#f1eqim7lobueg5)"
+       height="23.1328"
+       style="stroke: #000000; stroke-width: 2.0;"
+       width="96"
+       x="267.75"
+       y="761.7813"
+       id="rect658" />
+    <text
+       font-size="13"
+       font-weight="bold"
+       lengthAdjust="spacingAndGlyphs"
+       textLength="77"
+       x="273.75"
+       y="777.84808"
+       id="text660"
+       style="font-weight:bold;font-size:13px;font-family:sans-serif;fill:#000000">Second 105</text>
+    <polygon
+       fill="#A80036"
+       points="562.5,812.0469,572.5,816.0469,562.5,820.0469,566.5,816.0469"
+       style="stroke: #A80036; stroke-width: 1.0;"
+       id="polygon662" />
+    <line
+       style="stroke: #A80036; stroke-width: 1.0;"
+       x1="118.5"
+       x2="568.5"
+       y1="816.0469"
+       y2="816.0469"
+       id="line664" />
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="13"
+       font-weight="bold"
+       lengthAdjust="spacingAndGlyphs"
+       textLength="18"
+       x="125.5"
+       y="810.981"
+       id="text666">12</text>
+    <text
+       font-size="13"
+       lengthAdjust="spacingAndGlyphs"
+       textLength="98"
+       x="147.5"
+       y="810.98102"
+       id="text668"
+       style="font-size:13px;font-family:sans-serif;fill:#000000">http get /health</text>
+    <polygon
+       fill="#A80036"
+       points="129.5,841.1797,119.5,845.1797,129.5,849.1797,125.5,845.1797"
+       style="stroke: #A80036; stroke-width: 1.0;"
+       id="polygon670" />
+    <line
+       style="stroke: #A80036; stroke-width: 1.0;"
+       x1="123.5"
+       x2="573.5"
+       y1="845.1797"
+       y2="845.1797"
+       id="line672" />
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="13"
+       font-weight="bold"
+       lengthAdjust="spacingAndGlyphs"
+       textLength="18"
+       x="135.5"
+       y="840.1138"
+       id="text674">13</text>
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="13"
+       lengthAdjust="spacingAndGlyphs"
+       textLength="50"
+       x="157.5"
+       y="840.1138"
+       id="text676">timeout</text>
+    <rect
+       fill="#EEEEEE"
+       filter="url(#f1eqim7lobueg5)"
+       height="3"
+       style="stroke: #EEEEEE; stroke-width: 1.0;"
+       width="625.5"
+       x="3"
+       y="873.7461"
+       id="rect678" />
+    <line
+       style="stroke: #000000; stroke-width: 1.0;"
+       x1="3"
+       x2="628.5"
+       y1="873.7461"
+       y2="873.7461"
+       id="line680" />
+    <line
+       style="stroke: #000000; stroke-width: 1.0;"
+       x1="3"
+       x2="628.5"
+       y1="876.7461"
+       y2="876.7461"
+       id="line682" />
+    <rect
+       fill="#EEEEEE"
+       filter="url(#f1eqim7lobueg5)"
+       height="23.1328"
+       style="stroke: #000000; stroke-width: 2.0;"
+       width="96"
+       x="267.75"
+       y="863.1797"
+       id="rect684" />
+    <text
+       font-size="13"
+       font-weight="bold"
+       lengthAdjust="spacingAndGlyphs"
+       textLength="77"
+       x="273.75"
+       y="879.24658"
+       id="text686"
+       style="font-weight:bold;font-size:13px;font-family:sans-serif;fill:#000000">Second 120</text>
+    <polygon
+       fill="#A80036"
+       points="562.5,913.4453,572.5,917.4453,562.5,921.4453,566.5,917.4453"
+       style="stroke: #A80036; stroke-width: 1.0;"
+       id="polygon688" />
+    <line
+       style="stroke: #A80036; stroke-width: 1.0;"
+       x1="118.5"
+       x2="568.5"
+       y1="917.4453"
+       y2="917.4453"
+       id="line690" />
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="13"
+       font-weight="bold"
+       lengthAdjust="spacingAndGlyphs"
+       textLength="18"
+       x="125.5"
+       y="912.3794"
+       id="text692">14</text>
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="13"
+       lengthAdjust="spacingAndGlyphs"
+       textLength="98"
+       x="147.5"
+       y="912.3794"
+       id="text694">http get /healtz</text>
+    <polygon
+       fill="#A80036"
+       points="129.5,942.5781,119.5,946.5781,129.5,950.5781,125.5,946.5781"
+       style="stroke: #A80036; stroke-width: 1.0;"
+       id="polygon696" />
+    <line
+       style="stroke: #A80036; stroke-width: 1.0;"
+       x1="123.5"
+       x2="573.5"
+       y1="946.5781"
+       y2="946.5781"
+       id="line698" />
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="13"
+       font-weight="bold"
+       lengthAdjust="spacingAndGlyphs"
+       textLength="18"
+       x="135.5"
+       y="941.5122"
+       id="text700">15</text>
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="13"
+       lengthAdjust="spacingAndGlyphs"
+       textLength="50"
+       x="157.5"
+       y="941.5122"
+       id="text702">timeout</text>
+    <polygon
+       fill="#A80036"
+       points="562.5,971.7109,572.5,975.7109,562.5,979.7109,566.5,975.7109"
+       style="stroke: #A80036; stroke-width: 1.0;"
+       id="polygon704" />
+    <line
+       style="stroke: #A80036; stroke-width: 1.0;"
+       x1="360.5"
+       x2="568.5"
+       y1="975.7109"
+       y2="975.7109"
+       id="line706" />
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="13"
+       font-weight="bold"
+       lengthAdjust="spacingAndGlyphs"
+       textLength="18"
+       x="367.5"
+       y="970.645"
+       id="text708">16</text>
+    <text
+       font-size="13"
+       lengthAdjust="spacingAndGlyphs"
+       textLength="98"
+       x="389.5"
+       y="970.64502"
+       id="text710"
+       style="font-size:13px;font-family:sans-serif;fill:#000000">http get /health</text>
+    <polygon
+       fill="#A80036"
+       points="371.5,1000.8438,361.5,1004.8438,371.5,1008.8438,367.5,1004.8438"
+       style="stroke: #A80036; stroke-width: 1.0;"
+       id="polygon712" />
+    <line
+       style="stroke: #A80036; stroke-width: 1.0;"
+       x1="365.5"
+       x2="573.5"
+       y1="1004.8438"
+       y2="1004.8438"
+       id="line714" />
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="13"
+       font-weight="bold"
+       lengthAdjust="spacingAndGlyphs"
+       textLength="18"
+       x="377.5"
+       y="999.7778"
+       id="text716">17</text>
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="13"
+       lengthAdjust="spacingAndGlyphs"
+       textLength="50"
+       x="399.5"
+       y="999.7778"
+       id="text718">timeout</text>
+    <rect
+       fill="#EEEEEE"
+       filter="url(#f1eqim7lobueg5)"
+       height="3"
+       style="stroke: #EEEEEE; stroke-width: 1.0;"
+       width="625.5"
+       x="3"
+       y="1033.4102"
+       id="rect720" />
+    <line
+       style="stroke: #000000; stroke-width: 1.0;"
+       x1="3"
+       x2="628.5"
+       y1="1033.4102"
+       y2="1033.4102"
+       id="line722" />
+    <line
+       style="stroke: #000000; stroke-width: 1.0;"
+       x1="3"
+       x2="628.5"
+       y1="1036.4102"
+       y2="1036.4102"
+       id="line724" />
+    <rect
+       fill="#EEEEEE"
+       filter="url(#f1eqim7lobueg5)"
+       height="23.1328"
+       style="stroke: #000000; stroke-width: 2.0;"
+       width="96"
+       x="267.75"
+       y="1022.8438"
+       id="rect726" />
+    <text
+       font-size="13"
+       font-weight="bold"
+       lengthAdjust="spacingAndGlyphs"
+       textLength="77"
+       x="273.75"
+       y="1038.9106"
+       id="text728"
+       style="font-weight:bold;font-size:13px;font-family:sans-serif;fill:#000000">Second 135</text>
+    <polygon
+       fill="#A80036"
+       points="562.5,1073.1094,572.5,1077.1094,562.5,1081.1094,566.5,1077.1094"
+       style="stroke: #A80036; stroke-width: 1.0;"
+       id="polygon730" />
+    <line
+       style="stroke: #A80036; stroke-width: 1.0;"
+       x1="118.5"
+       x2="568.5"
+       y1="1077.1094"
+       y2="1077.1094"
+       id="line732" />
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="13"
+       font-weight="bold"
+       lengthAdjust="spacingAndGlyphs"
+       textLength="18"
+       x="125.5"
+       y="1072.0435"
+       id="text734">18</text>
+    <text
+       font-size="13"
+       lengthAdjust="spacingAndGlyphs"
+       textLength="98"
+       x="147.5"
+       y="1072.0435"
+       id="text736"
+       style="font-size:13px;font-family:sans-serif;fill:#000000">http get /health</text>
+    <polygon
+       fill="#A80036"
+       points="129.5,1102.2422,119.5,1106.2422,129.5,1110.2422,125.5,1106.2422"
+       style="stroke: #A80036; stroke-width: 1.0;"
+       id="polygon738" />
+    <line
+       style="stroke: #A80036; stroke-width: 1.0;"
+       x1="123.5"
+       x2="573.5"
+       y1="1106.2422"
+       y2="1106.2422"
+       id="line740" />
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="13"
+       font-weight="bold"
+       lengthAdjust="spacingAndGlyphs"
+       textLength="18"
+       x="135.5"
+       y="1101.1763"
+       id="text742">19</text>
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="13"
+       lengthAdjust="spacingAndGlyphs"
+       textLength="50"
+       x="157.5"
+       y="1101.1763"
+       id="text744">timeout</text>
+    <line
+       style="stroke: #A80036; stroke-width: 1.0;"
+       x1="118.5"
+       x2="160.5"
+       y1="1135.375"
+       y2="1135.375"
+       id="line746" />
+    <line
+       style="stroke: #A80036; stroke-width: 1.0;"
+       x1="160.5"
+       x2="160.5"
+       y1="1135.375"
+       y2="1148.375"
+       id="line748" />
+    <line
+       style="stroke: #A80036; stroke-width: 1.0;"
+       x1="119.5"
+       x2="160.5"
+       y1="1148.375"
+       y2="1148.375"
+       id="line750" />
+    <polygon
+       fill="#A80036"
+       points="129.5,1144.375,119.5,1148.375,129.5,1152.375,125.5,1148.375"
+       style="stroke: #A80036; stroke-width: 1.0;"
+       id="polygon752" />
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="13"
+       font-weight="bold"
+       lengthAdjust="spacingAndGlyphs"
+       textLength="18"
+       x="125.5"
+       y="1130.3091"
+       id="text754">20</text>
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="13"
+       lengthAdjust="spacingAndGlyphs"
+       textLength="206"
+       x="147.5"
+       y="1130.3091"
+       id="text756">POD is disabled to receive traffic</text>
+    <rect
+       fill="#EEEEEE"
+       filter="url(#f1eqim7lobueg5)"
+       height="3"
+       style="stroke: #EEEEEE; stroke-width: 1.0;"
+       width="625.5"
+       x="3"
+       y="1176.9414"
+       id="rect758" />
+    <line
+       style="stroke: #000000; stroke-width: 1.0;"
+       x1="3"
+       x2="628.5"
+       y1="1176.9414"
+       y2="1176.9414"
+       id="line760" />
+    <line
+       style="stroke: #000000; stroke-width: 1.0;"
+       x1="3"
+       x2="628.5"
+       y1="1179.9414"
+       y2="1179.9414"
+       id="line762" />
+    <rect
+       fill="#EEEEEE"
+       filter="url(#f1eqim7lobueg5)"
+       height="23.1328"
+       style="stroke: #000000; stroke-width: 2.0;"
+       width="96"
+       x="267.75"
+       y="1166.375"
+       id="rect764" />
+    <text
+       font-size="13"
+       font-weight="bold"
+       lengthAdjust="spacingAndGlyphs"
+       textLength="77"
+       x="273.75"
+       y="1182.4419"
+       id="text766"
+       style="font-weight:bold;font-size:13px;font-family:sans-serif;fill:#000000">Second 150</text>
+    <polygon
+       fill="#A80036"
+       points="562.5,1216.6406,572.5,1220.6406,562.5,1224.6406,566.5,1220.6406"
+       style="stroke: #A80036; stroke-width: 1.0;"
+       id="polygon768" />
+    <line
+       style="stroke: #A80036; stroke-width: 1.0;"
+       x1="118.5"
+       x2="568.5"
+       y1="1220.6406"
+       y2="1220.6406"
+       id="line770" />
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="13"
+       font-weight="bold"
+       lengthAdjust="spacingAndGlyphs"
+       textLength="18"
+       x="125.5"
+       y="1215.5747"
+       id="text772">21</text>
+    <text
+       font-size="13"
+       lengthAdjust="spacingAndGlyphs"
+       textLength="98"
+       x="147.5"
+       y="1215.5747"
+       id="text774"
+       style="font-size:13px;font-family:sans-serif;fill:#000000">http get /health</text>
+    <polygon
+       fill="#A80036"
+       points="129.5,1245.7734,119.5,1249.7734,129.5,1253.7734,125.5,1249.7734"
+       style="stroke: #A80036; stroke-width: 1.0;"
+       id="polygon776" />
+    <line
+       style="stroke: #A80036; stroke-width: 1.0;"
+       x1="123.5"
+       x2="573.5"
+       y1="1249.7734"
+       y2="1249.7734"
+       id="line778" />
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="13"
+       font-weight="bold"
+       lengthAdjust="spacingAndGlyphs"
+       textLength="18"
+       x="135.5"
+       y="1244.7075"
+       id="text780">22</text>
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="13"
+       lengthAdjust="spacingAndGlyphs"
+       textLength="50"
+       x="157.5"
+       y="1244.7075"
+       id="text782">timeout</text>
+    <polygon
+       fill="#A80036"
+       points="562.5,1274.9063,572.5,1278.9063,562.5,1282.9063,566.5,1278.9063"
+       style="stroke: #A80036; stroke-width: 1.0;"
+       id="polygon784" />
+    <line
+       style="stroke: #A80036; stroke-width: 1.0;"
+       x1="360.5"
+       x2="568.5"
+       y1="1278.9063"
+       y2="1278.9063"
+       id="line786" />
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="13"
+       font-weight="bold"
+       lengthAdjust="spacingAndGlyphs"
+       textLength="18"
+       x="367.5"
+       y="1273.8403"
+       id="text788">23</text>
+    <text
+       font-size="13"
+       lengthAdjust="spacingAndGlyphs"
+       textLength="98"
+       x="389.5"
+       y="1273.8403"
+       id="text790"
+       style="font-size:13px;font-family:sans-serif;fill:#000000">http get /health</text>
+    <polygon
+       fill="#A80036"
+       points="371.5,1304.0391,361.5,1308.0391,371.5,1312.0391,367.5,1308.0391"
+       style="stroke: #A80036; stroke-width: 1.0;"
+       id="polygon792" />
+    <line
+       style="stroke: #A80036; stroke-width: 1.0;"
+       x1="365.5"
+       x2="573.5"
+       y1="1308.0391"
+       y2="1308.0391"
+       id="line794" />
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="13"
+       font-weight="bold"
+       lengthAdjust="spacingAndGlyphs"
+       textLength="18"
+       x="377.5"
+       y="1302.9731"
+       id="text796">24</text>
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="13"
+       lengthAdjust="spacingAndGlyphs"
+       textLength="50"
+       x="399.5"
+       y="1302.9731"
+       id="text798">timeout</text>
+    <rect
+       fill="#EEEEEE"
+       filter="url(#f1eqim7lobueg5)"
+       height="3"
+       style="stroke: #EEEEEE; stroke-width: 1.0;"
+       width="625.5"
+       x="3"
+       y="1336.6055"
+       id="rect800" />
+    <line
+       style="stroke: #000000; stroke-width: 1.0;"
+       x1="3"
+       x2="628.5"
+       y1="1336.6055"
+       y2="1336.6055"
+       id="line802" />
+    <line
+       style="stroke: #000000; stroke-width: 1.0;"
+       x1="3"
+       x2="628.5"
+       y1="1339.6055"
+       y2="1339.6055"
+       id="line804" />
+    <rect
+       fill="#EEEEEE"
+       filter="url(#f1eqim7lobueg5)"
+       height="23.1328"
+       style="stroke: #000000; stroke-width: 2.0;"
+       width="96"
+       x="267.75"
+       y="1326.0391"
+       id="rect806" />
+    <text
+       font-size="13"
+       font-weight="bold"
+       lengthAdjust="spacingAndGlyphs"
+       textLength="77"
+       x="273.75"
+       y="1342.106"
+       id="text808"
+       style="font-weight:bold;font-size:13px;font-family:sans-serif;fill:#000000">Second 165</text>
+    <polygon
+       fill="#A80036"
+       points="562.5,1376.3047,572.5,1380.3047,562.5,1384.3047,566.5,1380.3047"
+       style="stroke: #A80036; stroke-width: 1.0;"
+       id="polygon810" />
+    <line
+       style="stroke: #A80036; stroke-width: 1.0;"
+       x1="118.5"
+       x2="568.5"
+       y1="1380.3047"
+       y2="1380.3047"
+       id="line812" />
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="13"
+       font-weight="bold"
+       lengthAdjust="spacingAndGlyphs"
+       textLength="18"
+       x="125.5"
+       y="1375.2388"
+       id="text814">25</text>
+    <text
+       font-size="13"
+       lengthAdjust="spacingAndGlyphs"
+       textLength="98"
+       x="147.5"
+       y="1375.2388"
+       id="text816"
+       style="font-size:13px;font-family:sans-serif;fill:#000000">http get /health</text>
+    <polygon
+       fill="#A80036"
+       points="129.5,1405.4375,119.5,1409.4375,129.5,1413.4375,125.5,1409.4375"
+       style="stroke: #A80036; stroke-width: 1.0;"
+       id="polygon818" />
+    <line
+       style="stroke: #A80036; stroke-width: 1.0;"
+       x1="123.5"
+       x2="573.5"
+       y1="1409.4375"
+       y2="1409.4375"
+       id="line820" />
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="13"
+       font-weight="bold"
+       lengthAdjust="spacingAndGlyphs"
+       textLength="18"
+       x="135.5"
+       y="1404.3716"
+       id="text822">26</text>
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="13"
+       lengthAdjust="spacingAndGlyphs"
+       textLength="50"
+       x="157.5"
+       y="1404.3716"
+       id="text824">timeout</text>
+    <rect
+       fill="#EEEEEE"
+       filter="url(#f1eqim7lobueg5)"
+       height="3"
+       style="stroke: #EEEEEE; stroke-width: 1.0;"
+       width="625.5"
+       x="3"
+       y="1438.0039"
+       id="rect826" />
+    <line
+       style="stroke: #000000; stroke-width: 1.0;"
+       x1="3"
+       x2="628.5"
+       y1="1438.0039"
+       y2="1438.0039"
+       id="line828" />
+    <line
+       style="stroke: #000000; stroke-width: 1.0;"
+       x1="3"
+       x2="628.5"
+       y1="1441.0039"
+       y2="1441.0039"
+       id="line830" />
+    <rect
+       fill="#EEEEEE"
+       filter="url(#f1eqim7lobueg5)"
+       height="23.1328"
+       style="stroke: #000000; stroke-width: 2.0;"
+       width="96"
+       x="267.75"
+       y="1427.4375"
+       id="rect832" />
+    <text
+       font-size="13"
+       font-weight="bold"
+       lengthAdjust="spacingAndGlyphs"
+       textLength="77"
+       x="273.75"
+       y="1443.5044"
+       id="text834"
+       style="font-weight:bold;font-size:13px;font-family:sans-serif;fill:#000000">Second 180</text>
+    <polygon
+       fill="#A80036"
+       points="562.5,1477.7031,572.5,1481.7031,562.5,1485.7031,566.5,1481.7031"
+       style="stroke: #A80036; stroke-width: 1.0;"
+       id="polygon836" />
+    <line
+       style="stroke: #A80036; stroke-width: 1.0;"
+       x1="118.5"
+       x2="568.5"
+       y1="1481.7031"
+       y2="1481.7031"
+       id="line838" />
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="13"
+       font-weight="bold"
+       lengthAdjust="spacingAndGlyphs"
+       textLength="18"
+       x="125.5"
+       y="1476.6372"
+       id="text840">27</text>
+    <text
+       font-size="13"
+       lengthAdjust="spacingAndGlyphs"
+       textLength="98"
+       x="147.5"
+       y="1476.6372"
+       id="text842"
+       style="font-size:13px;font-family:sans-serif;fill:#000000">http get /health</text>
+    <polygon
+       fill="#A80036"
+       points="129.5,1506.8359,119.5,1510.8359,129.5,1514.8359,125.5,1510.8359"
+       style="stroke: #A80036; stroke-width: 1.0;"
+       id="polygon844" />
+    <line
+       style="stroke: #A80036; stroke-width: 1.0;"
+       x1="123.5"
+       x2="573.5"
+       y1="1510.8359"
+       y2="1510.8359"
+       id="line846" />
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="13"
+       font-weight="bold"
+       lengthAdjust="spacingAndGlyphs"
+       textLength="18"
+       x="135.5"
+       y="1505.77"
+       id="text848">28</text>
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="13"
+       lengthAdjust="spacingAndGlyphs"
+       textLength="50"
+       x="157.5"
+       y="1505.77"
+       id="text850">timeout</text>
+    <polygon
+       fill="#A80036"
+       points="562.5,1535.9688,572.5,1539.9688,562.5,1543.9688,566.5,1539.9688"
+       style="stroke: #A80036; stroke-width: 1.0;"
+       id="polygon852" />
+    <line
+       style="stroke: #A80036; stroke-width: 1.0;"
+       x1="360.5"
+       x2="568.5"
+       y1="1539.9688"
+       y2="1539.9688"
+       id="line854" />
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="13"
+       font-weight="bold"
+       lengthAdjust="spacingAndGlyphs"
+       textLength="18"
+       x="367.5"
+       y="1534.9028"
+       id="text856">29</text>
+    <text
+       font-size="13"
+       lengthAdjust="spacingAndGlyphs"
+       textLength="98"
+       x="389.5"
+       y="1534.9028"
+       id="text858"
+       style="font-size:13px;font-family:sans-serif;fill:#000000">http get /health</text>
+    <polygon
+       fill="#A80036"
+       points="371.5,1565.1016,361.5,1569.1016,371.5,1573.1016,367.5,1569.1016"
+       style="stroke: #A80036; stroke-width: 1.0;"
+       id="polygon860" />
+    <line
+       style="stroke: #A80036; stroke-width: 1.0;"
+       x1="365.5"
+       x2="573.5"
+       y1="1569.1016"
+       y2="1569.1016"
+       id="line862" />
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="13"
+       font-weight="bold"
+       lengthAdjust="spacingAndGlyphs"
+       textLength="18"
+       x="377.5"
+       y="1564.0356"
+       id="text864">30</text>
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="13"
+       lengthAdjust="spacingAndGlyphs"
+       textLength="50"
+       x="399.5"
+       y="1564.0356"
+       id="text866">timeout</text>
+    <line
+       style="stroke: #A80036; stroke-width: 1.0;"
+       x1="360.5"
+       x2="402.5"
+       y1="1598.2344"
+       y2="1598.2344"
+       id="line868" />
+    <line
+       style="stroke: #A80036; stroke-width: 1.0;"
+       x1="402.5"
+       x2="402.5"
+       y1="1598.2344"
+       y2="1611.2344"
+       id="line870" />
+    <line
+       style="stroke: #A80036; stroke-width: 1.0;"
+       x1="361.5"
+       x2="402.5"
+       y1="1611.2344"
+       y2="1611.2344"
+       id="line872" />
+    <polygon
+       fill="#A80036"
+       points="371.5,1607.2344,361.5,1611.2344,371.5,1615.2344,367.5,1611.2344"
+       style="stroke: #A80036; stroke-width: 1.0;"
+       id="polygon874" />
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="13"
+       font-weight="bold"
+       lengthAdjust="spacingAndGlyphs"
+       textLength="18"
+       x="367.5"
+       y="1593.1685"
+       id="text876">31</text>
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="13"
+       lengthAdjust="spacingAndGlyphs"
+       textLength="74"
+       x="389.5"
+       y="1593.1685"
+       id="text878">Kill the POD</text>
+    <!--MD5=[1718d09d7270cfe4d23a260321c54b96]
+@startuml
+autonumber
+
+title Liveness and Readiness probes
+
+participant "Kubernetes Readiness probe" as krp
+participant "Kubernetes Liveness probe" as klp
+
+box "POD" #AntiqueWhite
+    participant "Container 1" as c1
+endbox    
+
+== Setting the timers ==
+
+krp -> krp: initialDelaySeconds: 5\nperiodSeconds: 5\ntimeoutSeconds: 1 (default)\nsuccessThreshold: 1 (default)\nfailureThreshold: 3 (default)
+klp -> klp: initialDelaySeconds: 15\nperiodSeconds: 10\ntimeoutSeconds: 1 (default)\nsuccessThreshold: 1 (default)\nfailureThreshold: 3 (default)
+
+
+== Second 5 ==
+krp -> c1: http get /healtz
+krp <- c1: timeout
+== Second 10 ==
+krp -> c1: http get /healtz
+krp <- c1: 200 OK
+krp -> krp: POD is enabled to receive traffic
+== Second 15 ==
+krp -> c1: http get /healtz
+krp <- c1: 200 OK
+klp -> c1: http get /healtz
+klp <- c1: 200 OK
+== Second 20 ==
+krp -> c1: http get /healtz
+krp <- c1: timeout
+== Second 25 ==
+krp -> c1: http get /healtz
+krp <- c1: timeout
+klp -> c1: http get /healtz
+klp <- c1: timeout
+== Second 30 ==
+krp -> c1: http get /healtz
+krp <- c1: timeout
+krp -> krp: POD is disabled to receive traffic
+== Second 35 ==
+krp -> c1: http get /healtz
+krp <- c1: timeout
+klp -> c1: http get /healtz
+klp <- c1: timeout
+== Second 40 ==
+krp -> c1: http get /healtz
+krp <- c1: timeout
+== Second 45 ==
+krp -> c1: http get /healtz
+krp <- c1: timeout
+klp -> c1: http get /healtz
+klp <- c1: timeout
+klp -> klp: Kill the POD
+@enduml
+
+PlantUML version 1.2019.12beta6(Unknown compile time)
+(GPL source distribution)
+Java Runtime: Java(TM) SE Runtime Environment
+JVM: Java HotSpot(TM) 64-Bit Server VM
+Java Version: 1.7.0_25-b15
+Operating System: Linux
+Default Encoding: UTF-8
+Language: en
+Country: US
+-->
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot888"
+       style="fill:black;fill-opacity:1;stroke:none;font-family:sans-serif;font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;letter-spacing:0px;word-spacing:0px"><flowRegion
+         id="flowRegion890"><rect
+           id="rect892"
+           width="639.13739"
+           height="559.82837"
+           x="3.1101577"
+           y="3.1800542" /></flowRegion><flowPara
+         id="flowPara894"></flowPara></flowRoot>  </g>
+</svg>
